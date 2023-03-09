@@ -1,0 +1,105 @@
+.con {
+    box-shadow: 2px 2px 30px rgb(161, 161, 161);
+}
+
+.Btn {
+    margin-left: auto;
+    gap: 20px;
+}
+
+.Btn button{
+    background-color: #f8f9fa;
+    padding: 0 20px;
+    border-radius: 5px;
+    color:#6e4c3b;
+    border: 2px solid #6e4c3b;
+}
+.btn1{
+    background-color: #6e4c3b;
+    border: none;
+    color: white;
+    padding: 10px 280px;
+    border-radius: 8px;
+}
+.tol{
+    background-color: #6e4c3b !important;
+    color: white !important;
+}
+
+.icon {
+    width: 23%;
+}
+
+.icon2 {
+    width: 35px;
+}
+
+.img {
+    width: 958px;
+    margin: 30px 5%;
+}
+
+.img3{
+    position: absolute;
+    width: 432px;
+    margin: 58px 670px;
+}
+.login {
+    color: #6e4c3b;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 49px;
+}
+
+.name {
+    color: #6e4c3b;
+    font-weight: 750;
+}
+
+p{
+    display: flex;
+    flex: start;
+}
+.card {
+    margin: 0 15px;
+    margin-left: 50px;
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    padding: 10px 45% !important;
+    background-color: #6e4c3b !important;
+}
+.header{
+    color: #6e4c3b;
+    padding: 10px 20px 0 20px;
+    font-weight: 800;
+}
+
+.Container{
+    margin: 90px;
+    padding-right: 150px;
+}
+.Container2{
+    display: flex;
+    gap: 50px;
+}
+
+.produk{
+    margin: 25px 0;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    color: #613d2b;
+}
+
+.price{
+    color: #d19558;
+    text-align: end;
+    margin-bottom: 50px;
+}

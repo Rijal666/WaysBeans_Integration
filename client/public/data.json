@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "nameproduct": "RWANDA Bean",
+      "stock": "Stock : 200",
+      "price": "Rp.299.900",
+      "image": "/img/Rectangle 4.png"
+    },
+    {
+      "id": 2,
+      "nameproduct": "ETHIOPIA Beans",
+      "stock": "Stock : 99",
+      "price": "Rp.109.900",
+      "image": "/img/Rectangle 4.1.png"
+    },
+    {
+      "id": 3,
+      "nameproduct": "GUETEMALA Beans",
+      "stock": "Stock : 500",
+      "price": "Rp.300.900",
+      "image": "/img/Rectangle 4.2.png"
+    },
+    {
+      "id": 4,
+      "nameproduct": "NICARAGUA Beans",
+      "stock": "Stock : 352",
+      "price": "Rp.250.900",
+      "image": "/img/Rectangle 4.3.png"
+    }
+  ]
